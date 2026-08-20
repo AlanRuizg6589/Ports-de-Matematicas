@@ -8,7 +8,7 @@ def visitasTotales(campañas : int):
 
 # V(x) = 300 * x + 500
 
-# 1) La variable dependiente de este problmea es la cantidad de visitas totales | La variable independiente son la cantidad de campañas hechas.
+# 1) La variable dependiente de este problema es la cantidad de visitas totales | La variable independiente son la cantidad de campañas hechas.
 
 # 2) El dominio de esta funcion con el caso hipotetico es el siguiente : x = [0, 20]; con x siendo un numero entero.
 
@@ -16,7 +16,8 @@ def visitasTotales(campañas : int):
 
 # 4) Si se hacen 5 campañas publicitarias, el total de visitas sera de 2000.
 
-# 5)
+# 5) Se necesitan 14 campañas publicitarias para alcanzar 4700 visitas.
 
 print(visitasTotales(5))
+
 print(campañasPublicitariasTotal(4700))
