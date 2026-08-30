@@ -12,9 +12,8 @@ u = 0
 
 # 3) Si en un momento hay 25 servidores activos, la energia utilizada en ese momento es 1500 kWh.
 
-# 4)
+# 4) El numero máximo de servidores que se pueden mantener activo para que no superen los 1900 kWh es de 49 servidores.
 
-#
 
 def Energía(servidores : int):
     
