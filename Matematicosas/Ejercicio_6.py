@@ -1,4 +1,5 @@
 import numpy
+
 from scipy.optimize import fsolve
 
 import math
