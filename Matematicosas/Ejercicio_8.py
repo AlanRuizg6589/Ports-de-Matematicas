@@ -6,10 +6,5 @@
 
 # 2) Screenshot tomada!!!
 
-# 3) Le recomendaría que tome la oferta de trabajo que le dieron. Con su oferta de trabajo empieza a ganar más despues de vender más de 10 casas. Y la diferencia de antes es poco notable para considerarla.
-
-#
-
-#
-
-#
+# 3) Se tendría que considerar mucho la cantidad de casas que ella es capaz de vender, entre menos casa vende, con la oferta que le dieron es notable la diferencia entre su sueldo base y la oferta. Con un rango máximo de $100.000.
+# ---Pero si es capaz de vender consistentemente, si vale la pena la oferta de trabajo, solo tiene que llegar a vender 10 casas para igualar su sueldo actual.
