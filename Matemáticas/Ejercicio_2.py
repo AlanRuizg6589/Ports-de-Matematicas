@@ -1,5 +1,3 @@
-A = (3, 85) y B = (7, 45)
-
 # a) La variable dependiente de la función es la cantidad de combustible vaciado | La variable independiente es la cantidad de tiempo que transcurre (medidos en minutos)
 
 # b) La pendiente de la función es -10.
